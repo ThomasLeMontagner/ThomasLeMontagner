@@ -5,7 +5,7 @@
 * After reading those lines you may wonder how these professional activities are related to AI / ML. Curious by nature, I wanted to know more about Artificial Intelligence, and thus decided to follow the online course "Machine Learning", offered by Standford University on Coursera. I found myself passionate by it and continued my journey into this field, completely new to me. It has been 3 years now that I am studying Artifical Antelligence on my free time.
 * Now that I finally (and successfully!) completed 2 onlines micro-masters (one in Software Engineering and another in Artifical Intelligence, by Columbia University on Edx). I’m looking to collaborate on diverse projects with passionate colleagues keen to share and learned from each others.
 
-# Portfolio
+# Portfolio :computer:
 * [PolitelySecureDevice](https://github.com/ThomasLeMontagner/PolitelySecureDevice): A project using a Model-Based System Engineering approach to develop a face recognition device which greets people and alert the owner in case of intrusion in his home.
 * [Connect4Game_RL](https://github.com/ThomasLeMontagner/Connect4Game_RL): A Connect4 game with agent AI based Reinforcement Learning.
 
