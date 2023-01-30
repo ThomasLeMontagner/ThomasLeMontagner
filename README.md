@@ -7,7 +7,7 @@
 
 # Portfolio :computer:
 * [PolitelySecureDevice](https://github.com/ThomasLeMontagner/PolitelySecureDevice): A project using a Model-Based System Engineering approach to develop a face recognition device which greets people and alert the owner in case of intrusion in his home.
-* [Connect4Game_RL](https://github.com/ThomasLeMontagner/Connect4Game_RL): A Connect4 game with agent AI based Reinforcement Learning.
+* [Connect4Game_RL](https://github.com/ThomasLeMontagner/Connect4Game_RL): A Connect4 game with AI agent based Reinforcement Learning.
 
 # Contact 📫
 Feel free to reach me by email: thomas.le-montagner@hotmail.com or on LinkedIn: https://www.linkedin.com/in/thomas-le-montagner/
